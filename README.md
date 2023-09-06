@@ -19,11 +19,11 @@
 <br>
 
 Ce projet utilisera Html, CSS, Vanilla Javascript.
-<br>![bubble]()
+<br>
 
 <br>
 <p align="center">
-Jouez avec "Bubble Next Gen" : 
+Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
 </p>
 
 <br>
