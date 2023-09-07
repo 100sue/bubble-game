@@ -46,7 +46,6 @@ Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roland-appert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roland-appert/" height="30" width="40" /></a>
 </p>
 <br/>
-<br>
 
 <h3 align="center">Or, if you need my expertise for your project <br>👇</h3>
 <p align="center">
@@ -57,11 +56,11 @@ Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
     </p>
 </p>  
 <br>
+<br>
 <p align="center">
 <img src= "https://github.com/100sue/bubble-game/assets/90606431/7f2b4980-ba84-4225-a25a-b5302f0ffc88"/>
 </p>
 
-<br>
 
 
 
