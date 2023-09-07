@@ -27,15 +27,13 @@ Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
 </p>
 
 <br>
-
+<br>
 <br>
 <br>
 
 <p align="center">
 <img src= "https://github.com/100sue/bubble-game/assets/90606431/97c01f78-8028-4b00-a632-530b6c987504" width="669" height="418"/>
 </p>
-
-
 
 <h1 align="center">Web Developer - Full Stack</h1>
 
@@ -47,6 +45,7 @@ Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roland-appert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roland-appert/" height="30" width="40" /></a>
 </p>
 <br/>
+<br>
 
 <h3 align="center">Or, if you need my expertise for your project <br>👇</h3>
 <p align="center">
