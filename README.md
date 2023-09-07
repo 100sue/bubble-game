@@ -38,8 +38,9 @@ Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
 <h1 align="center">Web Developer - Full Stack</h1>
 
 <p style="margin: 15px;" align="center">
-     <h3 align="center">Hi, I'm web developer and I make some application, and some others stuff in developement.</h3>
+     <h3 align="center">Hi, I'm web developer and I make some application, <br> and some others stuff in developement.</h3>
 </p>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roland-appert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roland-appert/" height="30" width="40" /></a>
