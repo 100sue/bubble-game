@@ -35,7 +35,6 @@ Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
 <img src= "https://github.com/100sue/bubble-game/assets/90606431/97c01f78-8028-4b00-a632-530b6c987504" width="669" height="418"/>
 </p>
 
-<br>
 
 
 <h1 align="center">Web Developer - Full Stack</h1>
@@ -57,7 +56,6 @@ Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
     <p style='margin-bottom: 40px'>
     </p>
 </p>  
-<br>
 <br>
 <p align="center">
 <img src= "https://github.com/100sue/bubble-game/assets/90606431/7f2b4980-ba84-4225-a25a-b5302f0ffc88"/>
