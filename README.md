@@ -32,7 +32,7 @@ Jouez avec "Bubble Next Gen" : https://100sue.github.io/bubble-game/
 <br>
 
 <p align="center">
-<img src= "https://github.com/100sue/bubble-game/assets/90606431/97c01f78-8028-4b00-a632-530b6c987504" width="70" height="100"/>
+<img src= "https://github.com/100sue/bubble-game/assets/90606431/97c01f78-8028-4b00-a632-530b6c987504" width="200" height="250"/>
 </p>
 
 <br>
